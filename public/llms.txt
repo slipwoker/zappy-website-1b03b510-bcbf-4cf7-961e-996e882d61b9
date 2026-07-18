@@ -1,0 +1,91 @@
+# Kahlon cars — Generative Engine Optimization Map
+
+> An automotive vehicle trading business focused on buying and/or selling cars. The platform is likely intended to showcase vehicle listings and connect buyers with sellers in the car market.
+
+---
+
+## Pages
+
+### בית
+https://kahlon-cars-1b03b510.zappy5.app
+מחפשים רכב יד שנייה למכירה או רכב חדש 0 קילומטר במחיר טוב? ב-Kahlon cars תמצאו מגוון רכבים איכותיים, קנייה אמינה וחוויה משתלמת. היכנסו עכשיו למבחר המיוחד!
+
+### מכור את רכבך
+https://kahlon-cars-1b03b510.zappy5.app/sell-your-car
+רוצים למכור את הרכב בלי כאב ראש? ב-Kahlon cars אנו מציעים תהליך פשוט, הוגן ומהיר למכירת רכבים בישראל. השאירו פרטים עוד היום וקבלו הצעה משתלמת!
+
+### איך זה עובד
+https://kahlon-cars-1b03b510.zappy5.app/how-it-works
+איך זה עובד? ב-Kahlon cars פישטנו עבורכם את תהליך קניית רכב יד שנייה אמין או מכירת הרכב שלכם. גלו את השלבים הפשוטים שמבטיחים עסקה בטוחה ומשתלמת.
+
+### אודות
+https://kahlon-cars-1b03b510.zappy5.app/about
+ב-Kahlon cars אנו מחויבים להביא לכם רכב יד שנייה למכירה ורכב חדש 0 קילומטר במחיר טוב תוך שקיפות מלאה. הכירו את הצוות שהופך קניית רכב לחוויה בטוחה ומהנה.
+
+### צור קשר
+https://kahlon-cars-1b03b510.zappy5.app/contact
+יש שאלות על רכב יד שנייה למכירה או רכבי ספורט יד שנייה ישראל? צרו קשר עם Kahlon cars עוד היום! אנחנו כאן לעזור לכם למצוא את הרכב המושלם בקלות ובמהירות.
+
+### Products
+https://kahlon-cars-1b03b510.zappy5.app/products
+המוצרים שלנו - Kahlon cars
+
+### Product Detail
+https://kahlon-cars-1b03b510.zappy5.app/product/:slug
+פרטי המוצר - Kahlon cars
+
+### Category
+https://kahlon-cars-1b03b510.zappy5.app/category/:slug
+מוצרים - Kahlon cars
+
+### תודה שפניתם אלינו
+https://kahlon-cars-1b03b510.zappy5.app/thank-you
+Kahlon cars - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://kahlon-cars-1b03b510.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://kahlon-cars-1b03b510.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://kahlon-cars-1b03b510.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Kahlon cars
+An automotive vehicle trading business focused on buying and/or selling cars. The platform is likely intended to showcase vehicle listings and connect buyers with sellers in the car market.
+
+## Services/Products
+- מכירת רכבים
+
+## Target Audience
+- רכבים יד 2
+- רכב חדש 0 ק״מ
+- רכבי ספורט למכירה
+
+## Industry
+Automotive
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://kahlon-cars-1b03b510.zappy5.app/sitemap.xml
+- Robots: https://kahlon-cars-1b03b510.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kahlon-cars-1b03b510.zappy5.app/llms-full.txt
+- Products (JSON): https://kahlon-cars-1b03b510.zappy5.app/products.json
+- Products (Google Merchant RSS): https://kahlon-cars-1b03b510.zappy5.app/product-feed.xml
