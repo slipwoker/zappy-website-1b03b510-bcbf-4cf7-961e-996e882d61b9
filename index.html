@@ -778,13 +778,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "1b03b510-bcbf-4cf7-961e-996e882d61b9";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "1b03b510-bcbf-4cf7-961e-996e882d61b9";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1390,25 +1390,25 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </section>
   
 
-<section data-band-index="1" class="index-features-section" data-layout-spec="בית-features">
+<section data-band-index="1" class="index-features-section" data-layout-spec="בית-features" id="index-features-section">
   <div class="index-features-section__container">
     <div class="index-features-section__intro">
-      <small class="index-features-section__label">השירותים שלנו</small>
-      <h2 class="index-features-section__title">מכירה וקנייה חכמה – התהליך שמתחיל בביטחון</h2>
+      <p class="zappy-editable"><small class="index-features-section__label">השירותים שלנו</small>
+      </p><h2 class="index-features-section__title">מכירה וקנייה חכמה – התהליך שמתחיל בביטחון</h2>
       <p class="index-features-section__subtitle">אנחנו הופכים כל עסקת רכב לחוויה שקופה, רצינית ומדויקת. בין אם אתם מחפשים רכב יד שנייה למכירה, רכב ספורטיבי או הזדמנות אפס קילומטר – אנחנו כאן.</p>
     </div>
     <div class="index-features-section__grid">
-      <article class="index-features-section__card">
+      <article class="index-features-section__card" data-grid-item-index="0">
         <div class="index-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M8 36V20L24 6L40 20V36C40 38.2091 38.2091 40 36 40H12C9.79086 40 8 38.2091 8 36Z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/>
             <path d="M18 40V26H30V40" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/>
           </svg>
         </div>
-        <h3 class="index-features-section__card-title">סחר רכבי יד שנייה</h3>
+        <h3 class="index-features-section__card-title" style>מכירה וקנייה - רכבי יד שנייה</h3>
         <p class="index-features-section__card-text">תקשורת ישירה, הערכה רצינית וליווי צמוד לאורך כל העסקה. אנחנו דואגים שכל רכב שאתם קונים או מוכרים יעמוד בסטנדרט הגבוה ביותר – בלי הפתעות.</p>
       </article>
-      <article class="index-features-section__card">
+      <article class="index-features-section__card" data-grid-item-index="1">
         <div class="index-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <circle cx="24" cy="24" r="16" stroke="currentColor" stroke-width="2.5"/>
@@ -1419,7 +1419,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
         <h3 class="index-features-section__card-title">רכב חדש 0 קילומטר</h3>
         <p class="index-features-section__card-text">הזדמנויות אמיתיות לרכישת רכבים חדשים לגמרי במחירים תחרותיים. אנחנו מציגים את כל האפשרויות בבהירות מלאה, כך שתוכלו לקבל החלטה מושכלת בביטחון.</p>
       </article>
-      <article class="index-features-section__card">
+      <article class="index-features-section__card" data-grid-item-index="2">
         <div class="index-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M36 14L24 6L12 14V34L24 42L36 34V14Z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/>
